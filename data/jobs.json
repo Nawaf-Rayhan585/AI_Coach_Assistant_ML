@@ -1,0 +1,602 @@
+[
+  {
+    "id": 1,
+    "title": "Frontend Developer",
+    "tags": ["javascript", "react", "html", "css"],
+    "description": "Build responsive web interfaces using React and JavaScript. Focus on performance and clean design."
+  },
+  {
+    "id": 2,
+    "title": "Backend Developer",
+    "tags": ["nodejs", "express", "api", "mongodb"],
+    "description": "Develop RESTful APIs, manage databases, and implement server-side logic for scalable applications."
+  },
+  {
+    "id": 3,
+    "title": "Data Scientist",
+    "tags": ["python", "pandas", "ml", "statistics"],
+    "description": "Analyze datasets, build ML models, and extract business insights using Python and statistical methods."
+  },
+  {
+    "id": 4,
+    "title": "ML Engineer",
+    "tags": ["tensorflow", "pytorch", "deployment"],
+    "description": "Train, optimize, and deploy ML models into production environments."
+  },
+  {
+    "id": 5,
+    "title": "DevOps Engineer",
+    "tags": ["docker", "kubernetes", "aws", "ci/cd"],
+    "description": "Automate deployments, manage infrastructure, and ensure system reliability using cloud tools."
+  },
+  {
+    "id": 6,
+    "title": "Full Stack Developer",
+    "tags": ["react", "nodejs", "postgresql", "typescript"],
+    "description": "Design and implement both frontend and backend systems for modern web applications."
+  },
+  {
+    "id": 7,
+    "title": "Mobile Developer",
+    "tags": ["react-native", "ios", "android", "mobile"],
+    "description": "Create cross-platform mobile applications with native performance and smooth user experiences."
+  },
+  {
+    "id": 8,
+    "title": "iOS Developer",
+    "tags": ["swift", "swiftui", "xcode", "ios"],
+    "description": "Build native iOS applications using Swift and modern Apple frameworks."
+  },
+  {
+    "id": 9,
+    "title": "Android Developer",
+    "tags": ["kotlin", "android-studio", "jetpack", "android"],
+    "description": "Develop native Android apps with Kotlin and Jetpack Compose for millions of users."
+  },
+  {
+    "id": 10,
+    "title": "QA Engineer",
+    "tags": ["testing", "selenium", "automation", "qa"],
+    "description": "Ensure software quality through automated and manual testing strategies."
+  },
+  {
+    "id": 11,
+    "title": "UI/UX Designer",
+    "tags": ["figma", "sketch", "design", "prototyping"],
+    "description": "Create intuitive user interfaces and engaging experiences through research and design."
+  },
+  {
+    "id": 12,
+    "title": "Product Manager",
+    "tags": ["strategy", "roadmap", "agile", "stakeholder"],
+    "description": "Define product vision, prioritize features, and coordinate cross-functional teams."
+  },
+  {
+    "id": 13,
+    "title": "Security Engineer",
+    "tags": ["cybersecurity", "penetration-testing", "security", "networking"],
+    "description": "Protect systems from threats through security audits, penetration testing, and monitoring."
+  },
+  {
+    "id": 14,
+    "title": "Cloud Architect",
+    "tags": ["aws", "azure", "gcp", "architecture"],
+    "description": "Design scalable cloud infrastructure and migration strategies for enterprise applications."
+  },
+  {
+    "id": 15,
+    "title": "Data Engineer",
+    "tags": ["spark", "kafka", "etl", "data-pipeline"],
+    "description": "Build and maintain data pipelines for large-scale data processing and analytics."
+  },
+  {
+    "id": 16,
+    "title": "Business Analyst",
+    "tags": ["sql", "excel", "tableau", "analytics"],
+    "description": "Translate business requirements into technical specifications and analyze performance metrics."
+  },
+  {
+    "id": 17,
+    "title": "Blockchain Developer",
+    "tags": ["solidity", "ethereum", "web3", "smart-contracts"],
+    "description": "Develop decentralized applications and smart contracts on blockchain platforms."
+  },
+  {
+    "id": 18,
+    "title": "Game Developer",
+    "tags": ["unity", "c#", "3d", "gaming"],
+    "description": "Create immersive gaming experiences using Unity and advanced game development techniques."
+  },
+  {
+    "id": 19,
+    "title": "Site Reliability Engineer",
+    "tags": ["monitoring", "linux", "automation", "sre"],
+    "description": "Maintain system reliability, implement monitoring solutions, and optimize infrastructure performance."
+  },
+  {
+    "id": 20,
+    "title": "Technical Writer",
+    "tags": ["documentation", "api-docs", "markdown", "writing"],
+    "description": "Create clear technical documentation, API references, and user guides for developers."
+  },
+  {
+    "id": 21,
+    "title": "Scrum Master",
+    "tags": ["agile", "scrum", "jira", "facilitation"],
+    "description": "Facilitate agile ceremonies and remove blockers to enable team productivity."
+  },
+  {
+    "id": 22,
+    "title": "Database Administrator",
+    "tags": ["mysql", "postgresql", "oracle", "dba"],
+    "description": "Manage database systems, ensure data integrity, and optimize query performance."
+  },
+  {
+    "id": 23,
+    "title": "Network Engineer",
+    "tags": ["cisco", "routing", "switching", "networking"],
+    "description": "Design and maintain network infrastructure for reliable connectivity and performance."
+  },
+  {
+    "id": 24,
+    "title": "Embedded Systems Engineer",
+    "tags": ["c", "c++", "iot", "embedded"],
+    "description": "Develop firmware and software for embedded systems and IoT devices."
+  },
+  {
+    "id": 25,
+    "title": "Computer Vision Engineer",
+    "tags": ["opencv", "deep-learning", "image-processing", "cv"],
+    "description": "Build systems that interpret visual data using ML and computer vision algorithms."
+  },
+  {
+    "id": 26,
+    "title": "NLP Engineer",
+    "tags": ["nlp", "transformers", "bert", "python"],
+    "description": "Develop natural language processing models for text understanding and generation."
+  },
+  {
+    "id": 27,
+    "title": "Solutions Architect",
+    "tags": ["architecture", "system-design", "aws", "enterprise"],
+    "description": "Design comprehensive technical solutions that meet business and scalability requirements."
+  },
+  {
+    "id": 28,
+    "title": "Salesforce Developer",
+    "tags": ["apex", "salesforce", "lightning", "crm"],
+    "description": "Customize and develop Salesforce applications to enhance CRM functionality."
+  },
+  {
+    "id": 29,
+    "title": "SAP Consultant",
+    "tags": ["sap", "erp", "abap", "consulting"],
+    "description": "Implement and customize SAP solutions for enterprise resource planning."
+  },
+  {
+    "id": 30,
+    "title": "ETL Developer",
+    "tags": ["sql", "etl", "data-warehouse", "informatica"],
+    "description": "Design ETL processes to extract, transform, and load data into warehouses."
+  },
+  {
+    "id": 31,
+    "title": "BI Developer",
+    "tags": ["power-bi", "tableau", "sql", "analytics"],
+    "description": "Create interactive dashboards and reports for data-driven business decisions."
+  },
+  {
+    "id": 32,
+    "title": "WordPress Developer",
+    "tags": ["php", "wordpress", "plugins", "cms"],
+    "description": "Build custom WordPress themes and plugins for content management systems."
+  },
+  {
+    "id": 33,
+    "title": "Shopify Developer",
+    "tags": ["liquid", "shopify", "ecommerce", "javascript"],
+    "description": "Develop custom Shopify stores and integrations for ecommerce businesses."
+  },
+  {
+    "id": 34,
+    "title": "Flutter Developer",
+    "tags": ["flutter", "dart", "mobile", "cross-platform"],
+    "description": "Build beautiful cross-platform mobile apps using Flutter framework."
+  },
+  {
+    "id": 35,
+    "title": "Vue.js Developer",
+    "tags": ["vue", "vuex", "javascript", "frontend"],
+    "description": "Create dynamic single-page applications using Vue.js ecosystem."
+  },
+  {
+    "id": 36,
+    "title": "Angular Developer",
+    "tags": ["angular", "typescript", "rxjs", "frontend"],
+    "description": "Develop enterprise web applications with Angular and TypeScript."
+  },
+  {
+    "id": 37,
+    "title": "Python Developer",
+    "tags": ["python", "django", "flask", "backend"],
+    "description": "Build robust backend services and applications using Python frameworks."
+  },
+  {
+    "id": 38,
+    "title": "Java Developer",
+    "tags": ["java", "spring", "hibernate", "backend"],
+    "description": "Develop enterprise applications using Java and Spring ecosystem."
+  },
+  {
+    "id": 39,
+    "title": "C# Developer",
+    "tags": ["c#", "dotnet", "asp.net", "backend"],
+    "description": "Create scalable applications using .NET framework and C# language."
+  },
+  {
+    "id": 40,
+    "title": "Ruby Developer",
+    "tags": ["ruby", "rails", "backend", "mvc"],
+    "description": "Build web applications with Ruby on Rails following MVC architecture."
+  },
+  {
+    "id": 41,
+    "title": "Go Developer",
+    "tags": ["golang", "microservices", "backend", "concurrency"],
+    "description": "Develop high-performance microservices using Go programming language."
+  },
+  {
+    "id": 42,
+    "title": "Rust Developer",
+    "tags": ["rust", "systems", "performance", "memory-safety"],
+    "description": "Build memory-safe systems software with Rust's ownership model."
+  },
+  {
+    "id": 43,
+    "title": "PHP Developer",
+    "tags": ["php", "laravel", "symfony", "backend"],
+    "description": "Develop dynamic web applications using PHP and modern frameworks."
+  },
+  {
+    "id": 44,
+    "title": "Scala Developer",
+    "tags": ["scala", "akka", "functional", "backend"],
+    "description": "Build functional and concurrent applications using Scala ecosystem."
+  },
+  {
+    "id": 45,
+    "title": "GraphQL Developer",
+    "tags": ["graphql", "api", "apollo", "backend"],
+    "description": "Design and implement GraphQL APIs for flexible data querying."
+  },
+  {
+    "id": 46,
+    "title": "Microservices Architect",
+    "tags": ["microservices", "distributed", "api-gateway", "architecture"],
+    "description": "Design microservices architectures for scalable distributed systems."
+  },
+  {
+    "id": 47,
+    "title": "Performance Engineer",
+    "tags": ["optimization", "profiling", "load-testing", "performance"],
+    "description": "Optimize application performance through profiling, testing, and tuning."
+  },
+  {
+    "id": 48,
+    "title": "Release Manager",
+    "tags": ["deployment", "release", "coordination", "agile"],
+    "description": "Coordinate software releases and manage deployment schedules across teams."
+  },
+  {
+    "id": 49,
+    "title": "AI Research Scientist",
+    "tags": ["research", "deep-learning", "papers", "ai"],
+    "description": "Conduct cutting-edge AI research and publish findings in academic venues."
+  },
+  {
+    "id": 50,
+    "title": "Robotics Engineer",
+    "tags": ["ros", "robotics", "control-systems", "embedded"],
+    "description": "Design and program robotic systems for automation and autonomous operation."
+  },
+  {
+    "id": 51,
+    "title": "AR/VR Developer",
+    "tags": ["unity", "ar", "vr", "3d"],
+    "description": "Create immersive augmented and virtual reality experiences."
+  },
+  {
+    "id": 52,
+    "title": "Frontend Architect",
+    "tags": ["architecture", "javascript", "performance", "frontend"],
+    "description": "Define frontend architecture standards and lead technical implementation."
+  },
+  {
+    "id": 53,
+    "title": "Backend Architect",
+    "tags": ["architecture", "scalability", "distributed", "backend"],
+    "description": "Design scalable backend systems and define technical standards."
+  },
+  {
+    "id": 54,
+    "title": "Technical Lead",
+    "tags": ["leadership", "mentoring", "architecture", "full-stack"],
+    "description": "Lead engineering teams, make technical decisions, and mentor developers."
+  },
+  {
+    "id": 55,
+    "title": "Engineering Manager",
+    "tags": ["management", "leadership", "team-building", "agile"],
+    "description": "Manage engineering teams, deliver projects, and grow team capabilities."
+  },
+  {
+    "id": 56,
+    "title": "CTO",
+    "tags": ["leadership", "strategy", "executive", "vision"],
+    "description": "Define technology strategy and lead engineering organization."
+  },
+  {
+    "id": 57,
+    "title": "API Developer",
+    "tags": ["rest", "api", "documentation", "backend"],
+    "description": "Design and implement RESTful APIs with comprehensive documentation."
+  },
+  {
+    "id": 58,
+    "title": "Infrastructure Engineer",
+    "tags": ["terraform", "infrastructure", "iac", "cloud"],
+    "description": "Manage infrastructure as code and automate provisioning processes."
+  },
+  {
+    "id": 59,
+    "title": "Linux Administrator",
+    "tags": ["linux", "bash", "system-admin", "devops"],
+    "description": "Administer Linux servers, automate tasks, and ensure system security."
+  },
+  {
+    "id": 60,
+    "title": "Windows Administrator",
+    "tags": ["windows", "powershell", "active-directory", "admin"],
+    "description": "Manage Windows server infrastructure and Active Directory services."
+  },
+  {
+    "id": 61,
+    "title": "Automation Engineer",
+    "tags": ["automation", "python", "testing", "ci/cd"],
+    "description": "Build automation frameworks for testing, deployment, and operations."
+  },
+  {
+    "id": 62,
+    "title": "Compliance Engineer",
+    "tags": ["compliance", "security", "audit", "governance"],
+    "description": "Ensure systems meet regulatory compliance and security standards."
+  },
+  {
+    "id": 63,
+    "title": "Integration Engineer",
+    "tags": ["integration", "api", "middleware", "systems"],
+    "description": "Integrate disparate systems and build middleware solutions."
+  },
+  {
+    "id": 64,
+    "title": "Platform Engineer",
+    "tags": ["platform", "tooling", "developer-experience", "infrastructure"],
+    "description": "Build internal platforms and tools to improve developer productivity."
+  },
+  {
+    "id": 65,
+    "title": "Penetration Tester",
+    "tags": ["pentesting", "security", "ethical-hacking", "vulnerability"],
+    "description": "Conduct security assessments and identify vulnerabilities through ethical hacking."
+  },
+  {
+    "id": 66,
+    "title": "Incident Response Engineer",
+    "tags": ["security", "incident", "forensics", "response"],
+    "description": "Respond to security incidents and conduct forensic investigations."
+  },
+  {
+    "id": 67,
+    "title": "Identity Engineer",
+    "tags": ["identity", "authentication", "oauth", "security"],
+    "description": "Implement identity and access management solutions for secure authentication."
+  },
+  {
+    "id": 68,
+    "title": "Observability Engineer",
+    "tags": ["monitoring", "logging", "metrics", "observability"],
+    "description": "Build comprehensive observability solutions for distributed systems."
+  },
+  {
+    "id": 69,
+    "title": "Chaos Engineer",
+    "tags": ["chaos", "resilience", "testing", "sre"],
+    "description": "Test system resilience through controlled chaos engineering experiments."
+  },
+  {
+    "id": 70,
+    "title": "Fintech Developer",
+    "tags": ["fintech", "payments", "banking", "compliance"],
+    "description": "Build financial technology solutions with security and compliance focus."
+  },
+  {
+    "id": 71,
+    "title": "Healthcare Software Engineer",
+    "tags": ["healthcare", "hipaa", "hl7", "compliance"],
+    "description": "Develop healthcare applications meeting HIPAA and medical standards."
+  },
+  {
+    "id": 72,
+    "title": "Gaming Backend Engineer",
+    "tags": ["gaming", "multiplayer", "backend", "real-time"],
+    "description": "Build scalable backend systems for multiplayer gaming experiences."
+  },
+  {
+    "id": 73,
+    "title": "Search Engineer",
+    "tags": ["elasticsearch", "search", "indexing", "relevance"],
+    "description": "Implement and optimize search functionality using Elasticsearch."
+  },
+  {
+    "id": 74,
+    "title": "Recommendation Engineer",
+    "tags": ["ml", "recommendations", "personalization", "algorithms"],
+    "description": "Build recommendation systems using machine learning and collaborative filtering."
+  },
+  {
+    "id": 75,
+    "title": "Video Streaming Engineer",
+    "tags": ["video", "streaming", "cdn", "media"],
+    "description": "Develop video streaming infrastructure and optimize delivery performance."
+  },
+  {
+    "id": 76,
+    "title": "Audio Engineer",
+    "tags": ["audio", "dsp", "signal-processing", "media"],
+    "description": "Process and optimize audio data using digital signal processing techniques."
+  },
+  {
+    "id": 77,
+    "title": "Geospatial Developer",
+    "tags": ["gis", "mapping", "geospatial", "postgis"],
+    "description": "Build mapping and location-based applications using GIS technologies."
+  },
+  {
+    "id": 78,
+    "title": "Payments Engineer",
+    "tags": ["payments", "stripe", "fintech", "transactions"],
+    "description": "Integrate payment gateways and ensure secure transaction processing."
+  },
+  {
+    "id": 79,
+    "title": "Messaging Systems Engineer",
+    "tags": ["kafka", "rabbitmq", "messaging", "event-driven"],
+    "description": "Design and implement message queuing systems for event-driven architectures."
+  },
+  {
+    "id": 80,
+    "title": "Edge Computing Engineer",
+    "tags": ["edge", "iot", "distributed", "latency"],
+    "description": "Build edge computing solutions for low-latency distributed processing."
+  },
+  {
+    "id": 81,
+    "title": "5G Systems Engineer",
+    "tags": ["5g", "networking", "telecommunications", "wireless"],
+    "description": "Develop applications and infrastructure for 5G networks."
+  },
+  {
+    "id": 82,
+    "title": "Quantum Computing Researcher",
+    "tags": ["quantum", "qiskit", "research", "algorithms"],
+    "description": "Research quantum algorithms and develop applications for quantum computers."
+  },
+  {
+    "id": 83,
+    "title": "Test Automation Architect",
+    "tags": ["testing", "automation", "architecture", "qa"],
+    "description": "Design test automation strategies and frameworks for quality assurance."
+  },
+  {
+    "id": 84,
+    "title": "Accessibility Engineer",
+    "tags": ["accessibility", "wcag", "a11y", "inclusive"],
+    "description": "Ensure applications meet accessibility standards for inclusive user experiences."
+  },
+  {
+    "id": 85,
+    "title": "Localization Engineer",
+    "tags": ["i18n", "localization", "translation", "global"],
+    "description": "Implement internationalization and localization for global applications."
+  },
+  {
+    "id": 86,
+    "title": "Growth Engineer",
+    "tags": ["growth", "analytics", "experimentation", "metrics"],
+    "description": "Build features and run experiments to drive user growth and engagement."
+  },
+  {
+    "id": 87,
+    "title": "Conversion Rate Optimizer",
+    "tags": ["cro", "analytics", "ab-testing", "optimization"],
+    "description": "Optimize conversion funnels through data analysis and A/B testing."
+  },
+  {
+    "id": 88,
+    "title": "SEO Engineer",
+    "tags": ["seo", "web-performance", "analytics", "optimization"],
+    "description": "Optimize web applications for search engines and improve organic visibility."
+  },
+  {
+    "id": 89,
+    "title": "Email Marketing Engineer",
+    "tags": ["email", "marketing", "automation", "campaigns"],
+    "description": "Build email marketing systems and automate campaign workflows."
+  },
+  {
+    "id": 90,
+    "title": "Voice UI Developer",
+    "tags": ["alexa", "voice", "conversational", "ai"],
+    "description": "Develop voice user interfaces for smart assistants and IoT devices."
+  },
+  {
+    "id": 91,
+    "title": "Chatbot Developer",
+    "tags": ["chatbot", "nlp", "conversational", "ai"],
+    "description": "Build intelligent chatbots using NLP and conversational AI techniques."
+  },
+  {
+    "id": 92,
+    "title": "Wearables Developer",
+    "tags": ["wearables", "iot", "health-tech", "embedded"],
+    "description": "Develop applications for wearable devices and health monitoring systems."
+  },
+  {
+    "id": 93,
+    "title": "Smart Home Engineer",
+    "tags": ["iot", "smart-home", "automation", "protocols"],
+    "description": "Build smart home automation systems and integrate IoT devices."
+  },
+  {
+    "id": 94,
+    "title": "Automotive Software Engineer",
+    "tags": ["automotive", "embedded", "can-bus", "real-time"],
+    "description": "Develop software for automotive systems and autonomous vehicles."
+  },
+  {
+    "id": 95,
+    "title": "Drone Software Engineer",
+    "tags": ["drones", "flight-control", "embedded", "robotics"],
+    "description": "Build flight control software and autonomous navigation for drones."
+  },
+  {
+    "id": 96,
+    "title": "Space Systems Engineer",
+    "tags": ["aerospace", "embedded", "real-time", "systems"],
+    "description": "Develop software for spacecraft and satellite systems."
+  },
+  {
+    "id": 97,
+    "title": "Energy Systems Engineer",
+    "tags": ["energy", "smart-grid", "iot", "monitoring"],
+    "description": "Build software for energy management and smart grid systems."
+  },
+  {
+    "id": 98,
+    "title": "Agriculture Tech Developer",
+    "tags": ["agtech", "iot", "sensors", "analytics"],
+    "description": "Develop precision agriculture solutions using IoT and data analytics."
+  },
+  {
+    "id": 99,
+    "title": "Legal Tech Developer",
+    "tags": ["legaltech", "document", "automation", "compliance"],
+    "description": "Build legal technology solutions for document automation and compliance."
+  },
+  {
+    "id": 100,
+    "title": "Education Technology Developer",
+    "tags": ["edtech", "learning", "platforms", "accessibility"],
+    "description": "Create educational platforms and learning management systems for students."
+  }
+]
