@@ -41,3 +41,16 @@ It’s perfect for students, developers, or anyone exploring new career opportun
 
 ```bash
 pip install streamlit transformers torch accelerate
+```
+
+2. Intall Model
+
+```bash
+ollama pull llama3.2:1b
+```
+
+3. Run Project
+
+```bash
+streamlit run main.py
+```
