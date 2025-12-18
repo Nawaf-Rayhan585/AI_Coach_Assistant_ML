@@ -33,6 +33,30 @@ It’s perfect for students, developers, or anyone exploring new career opportun
 - **PyTorch / Accelerate** — Backend for fast AI inference.
 - **1B-parameter text-to-text model** — Lightweight and efficient.
 
+## UI Preview 🖼️
+
+<br/>
+
+### Give your information how many roles you want
+<br/>
+<img width="795" height="495" alt="image" src="https://github.com/user-attachments/assets/2b292b60-14ef-4e2d-a2ee-4f51517a2b36" />
+
+
+<br/>
+
+### AI generated roles matched
+<br/>
+
+<img width="687" height="907" alt="image" src="https://github.com/user-attachments/assets/1f7502a6-3fd3-44df-a1ad-c0e8b181e908" />
+
+
+### AI Generated Answer
+
+<img width="778" height="787" alt="image" src="https://github.com/user-attachments/assets/58523bc0-4893-4a2d-b09b-9df362cee69c" />
+<img width="682" height="829" alt="image" src="https://github.com/user-attachments/assets/4910b314-c98d-4a86-b8b7-1370c08f3f16" />
+
+
+
 ---
 
 ## Quick Start 🚀
