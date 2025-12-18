@@ -43,7 +43,7 @@ It’s perfect for students, developers, or anyone exploring new career opportun
 pip install streamlit transformers torch accelerate
 ```
 
-2. Intall Model
+2. Intall Model (as your choice)
 
 ```bash
 ollama pull llama3.2:1b
@@ -52,5 +52,5 @@ ollama pull llama3.2:1b
 3. Run Project
 
 ```bash
-streamlit run main.py
+streamlit run app.py
 ```
